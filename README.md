@@ -1,4 +1,4 @@
-# return-of-xcom-2026
+RETURN OF XCOM: LWotC Edition (2026)
 
 A pre-planned collection for return to XCOM after some years... build on Long War of the Chosen.
 
